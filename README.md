@@ -28,7 +28,7 @@ __A:__
 
 ##
 
-__Q:__ Dir encoding是如何做的，为什么能加速20% [commit website](https://github.com/NVlabs/instant-ngp/commit/fed242e6a3a92876eda58a4af0844499e1a6850b)？
+__Q:__ Dir encoding是如何做的，为什么能加速20%？([commit website](https://github.com/NVlabs/instant-ngp/commit/fed242e6a3a92876eda58a4af0844499e1a6850b))
 
 __A:__
 ##
