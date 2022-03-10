@@ -24,7 +24,7 @@ __A:__
 ##
 __Q:__ 第二次forward 与 inference_mixed_precision 具体不同之处是什么？
 
-__A:__
+__A:__ inference_mixed_precision 可能只是为了帮助算compacted_numsteps？
 
 ##
 
